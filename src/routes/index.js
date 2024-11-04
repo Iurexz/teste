@@ -1,5 +1,5 @@
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import Home from '../pages/home';
+import Home from '../pages/login';
 import Money from '../pages/money';
 import Store from '../pages/store';
 import Profile from '../pages/profile';
