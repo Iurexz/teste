@@ -57,7 +57,7 @@ export default function LoginScreen({ navigation }) {
 
             {/* Link para cadastro */}
             <Text style={styles.registerText}>
-              Ainda não é cadastrado?{' '}
+              Ainda não é cadastrado?{''}
               <Text style={styles.registerLink} onPress={() => navigation.navigate('SignUp')}>
                 Cadastre-se aqui.
               </Text>
